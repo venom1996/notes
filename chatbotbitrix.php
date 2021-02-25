@@ -30,7 +30,7 @@ if ($_REQUEST['data']['PARAMS']['FROM_USER_ID'] == 1  || $_REQUEST['data']['PARA
 
 
         'DIALOG_ID' =>  $_REQUEST['data']['PARAMS']['FROM_USER_ID'],
-        'MESSAGE' => 'ЧИРИК!',
+        'MESSAGE' => 'КЕК)0))0))',
         'ATTACH' => '',
         'KEYBOARD' => '',
         'MENU' => '',
